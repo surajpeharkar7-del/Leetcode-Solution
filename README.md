@@ -7,6 +7,7 @@
 | [0015-3sum](https://github.com/surajpeharkar7-del/Leetcode-Solution/tree/main/0015-3sum/) | Medium |
 | [0027-remove-element](https://github.com/surajpeharkar7-del/Leetcode-Solution/tree/main/0027-remove-element/) | Easy |
 | [0136-single-number](https://github.com/surajpeharkar7-del/Leetcode-Solution/tree/main/0136-single-number/) | Easy |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/surajpeharkar7-del/Leetcode-Solution/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -29,4 +30,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0136-single-number](https://github.com/surajpeharkar7-del/Leetcode-Solution/tree/main/0136-single-number/) | Easy |
+## Math
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/surajpeharkar7-del/Leetcode-Solution/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
 <!---LeetCode Topics End-->

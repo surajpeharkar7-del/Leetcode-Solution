@@ -27,6 +27,7 @@
 | [0345-reverse-vowels-of-a-string](https://github.com/surajpeharkar7-del/Leetcode-Solution/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
 | [0709-to-lower-case](https://github.com/surajpeharkar7-del/Leetcode-Solution/tree/main/0709-to-lower-case/) | Easy |
 | [0917-reverse-only-letters](https://github.com/surajpeharkar7-del/Leetcode-Solution/tree/main/0917-reverse-only-letters/) | Easy |
+| [3798-largest-even-number](https://github.com/surajpeharkar7-del/Leetcode-Solution/tree/main/3798-largest-even-number/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |

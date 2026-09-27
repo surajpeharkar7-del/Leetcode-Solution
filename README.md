@@ -7,6 +7,7 @@
 | [0015-3sum](https://github.com/surajpeharkar7-del/Leetcode-Solution/tree/main/0015-3sum/) | Medium |
 | [0027-remove-element](https://github.com/surajpeharkar7-del/Leetcode-Solution/tree/main/0027-remove-element/) | Easy |
 | [0136-single-number](https://github.com/surajpeharkar7-del/Leetcode-Solution/tree/main/0136-single-number/) | Easy |
+| [1346-check-if-n-and-its-double-exist](https://github.com/surajpeharkar7-del/Leetcode-Solution/tree/main/1346-check-if-n-and-its-double-exist/) | Easy |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/surajpeharkar7-del/Leetcode-Solution/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
@@ -16,10 +17,12 @@
 | [0344-reverse-string](https://github.com/surajpeharkar7-del/Leetcode-Solution/tree/main/0344-reverse-string/) | Easy |
 | [0345-reverse-vowels-of-a-string](https://github.com/surajpeharkar7-del/Leetcode-Solution/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
 | [0917-reverse-only-letters](https://github.com/surajpeharkar7-del/Leetcode-Solution/tree/main/0917-reverse-only-letters/) | Easy |
+| [1346-check-if-n-and-its-double-exist](https://github.com/surajpeharkar7-del/Leetcode-Solution/tree/main/1346-check-if-n-and-its-double-exist/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0015-3sum](https://github.com/surajpeharkar7-del/Leetcode-Solution/tree/main/0015-3sum/) | Medium |
+| [1346-check-if-n-and-its-double-exist](https://github.com/surajpeharkar7-del/Leetcode-Solution/tree/main/1346-check-if-n-and-its-double-exist/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -36,4 +39,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/surajpeharkar7-del/Leetcode-Solution/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
+## Hash Table
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1346-check-if-n-and-its-double-exist](https://github.com/surajpeharkar7-del/Leetcode-Solution/tree/main/1346-check-if-n-and-its-double-exist/) | Easy |
+## Binary Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1346-check-if-n-and-its-double-exist](https://github.com/surajpeharkar7-del/Leetcode-Solution/tree/main/1346-check-if-n-and-its-double-exist/) | Easy |
 <!---LeetCode Topics End-->

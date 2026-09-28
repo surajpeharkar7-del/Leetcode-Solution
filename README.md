@@ -47,4 +47,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1346-check-if-n-and-its-double-exist](https://github.com/surajpeharkar7-del/Leetcode-Solution/tree/main/1346-check-if-n-and-its-double-exist/) | Easy |
+## Linked List
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0206-reverse-linked-list](https://github.com/surajpeharkar7-del/Leetcode-Solution/tree/main/0206-reverse-linked-list/) | Easy |
+## Recursion
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0206-reverse-linked-list](https://github.com/surajpeharkar7-del/Leetcode-Solution/tree/main/0206-reverse-linked-list/) | Easy |
 <!---LeetCode Topics End-->

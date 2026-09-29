@@ -26,6 +26,7 @@
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0058-length-of-last-word](https://github.com/surajpeharkar7-del/Leetcode-Solution/tree/main/0058-length-of-last-word/) | Easy |
 | [0344-reverse-string](https://github.com/surajpeharkar7-del/Leetcode-Solution/tree/main/0344-reverse-string/) | Easy |
 | [0345-reverse-vowels-of-a-string](https://github.com/surajpeharkar7-del/Leetcode-Solution/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
 | [0709-to-lower-case](https://github.com/surajpeharkar7-del/Leetcode-Solution/tree/main/0709-to-lower-case/) | Easy |

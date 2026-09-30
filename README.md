@@ -6,6 +6,7 @@
 | ------- | ------- |
 | [0015-3sum](https://github.com/surajpeharkar7-del/Leetcode-Solution/tree/main/0015-3sum/) | Medium |
 | [0027-remove-element](https://github.com/surajpeharkar7-del/Leetcode-Solution/tree/main/0027-remove-element/) | Easy |
+| [0035-search-insert-position](https://github.com/surajpeharkar7-del/Leetcode-Solution/tree/main/0035-search-insert-position/) | Easy |
 | [0136-single-number](https://github.com/surajpeharkar7-del/Leetcode-Solution/tree/main/0136-single-number/) | Easy |
 | [1346-check-if-n-and-its-double-exist](https://github.com/surajpeharkar7-del/Leetcode-Solution/tree/main/1346-check-if-n-and-its-double-exist/) | Easy |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/surajpeharkar7-del/Leetcode-Solution/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
@@ -47,6 +48,7 @@
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0035-search-insert-position](https://github.com/surajpeharkar7-del/Leetcode-Solution/tree/main/0035-search-insert-position/) | Easy |
 | [1346-check-if-n-and-its-double-exist](https://github.com/surajpeharkar7-del/Leetcode-Solution/tree/main/1346-check-if-n-and-its-double-exist/) | Easy |
 ## Linked List
 | Problem Name | Difficulty |

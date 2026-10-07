@@ -42,6 +42,7 @@
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0069-sqrtx](https://github.com/surajpeharkar7-del/Leetcode-Solution/tree/main/0069-sqrtx/) | Easy |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/surajpeharkar7-del/Leetcode-Solution/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -51,6 +52,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0035-search-insert-position](https://github.com/surajpeharkar7-del/Leetcode-Solution/tree/main/0035-search-insert-position/) | Easy |
+| [0069-sqrtx](https://github.com/surajpeharkar7-del/Leetcode-Solution/tree/main/0069-sqrtx/) | Easy |
 | [1346-check-if-n-and-its-double-exist](https://github.com/surajpeharkar7-del/Leetcode-Solution/tree/main/1346-check-if-n-and-its-double-exist/) | Easy |
 ## Linked List
 | Problem Name | Difficulty |
@@ -69,4 +71,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1929-concatenation-of-array](https://github.com/surajpeharkar7-del/Leetcode-Solution/tree/main/1929-concatenation-of-array/) | Easy |
+## Newton's Method
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0069-sqrtx](https://github.com/surajpeharkar7-del/Leetcode-Solution/tree/main/0069-sqrtx/) | Easy |
 <!---LeetCode Topics End-->
